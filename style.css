@@ -1,0 +1,66 @@
+.textito{
+    text-align: center;
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px; 
+    background-color: rgb(255, 60, 0);
+    color: white;
+    padding: 200px;
+    margin-bottom: 4px;
+}
+
+.blanco{
+    color: white;
+}
+
+.table{
+    margin: 40px;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.textitos{
+    text-align: center;
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px; 
+    background-color:rgb(34, 82, 103);
+    color: white;
+    padding: 60px;
+    margin-bottom: 4px;
+}
+
+.contactenos{
+    text-align: center;
+    margin: 30px;
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+
+.sede{
+    text-align: center;
+    margin: 30px;
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+
+.direccion{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+.dudas{
+    text-align: center;
+    margin: 30px;
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+}
